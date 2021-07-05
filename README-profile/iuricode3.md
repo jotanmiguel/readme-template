@@ -6,10 +6,7 @@
 
 <p>
 
-Estudando/trabalhando na **nome do lugar**<br/>
-
-Eu sou desenvolvedor **sua área**.
-
+  Atualmente estudo na <a href="https://ciencias.ulisboa.pt/pt/di">Faculdade de Ciências da Universidade de lisboa</a><br/>
 
 </p>
 <hr>
