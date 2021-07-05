@@ -4,11 +4,12 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=jotanmiguel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default">
-
 <p>
 
   Atualmente estudo na <a href="https://ciencias.ulisboa.pt/pt/di">Faculdade de Ciências da Universidade de lisboa</a><br/>
 
 </p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default">
+
 <hr>
