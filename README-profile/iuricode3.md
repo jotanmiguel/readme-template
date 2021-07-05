@@ -4,6 +4,8 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=jotanmiguel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
 <p>
 
   Atualmente estudo na <a href="https://ciencias.ulisboa.pt/pt/di">Faculdade de Ciências da Universidade de lisboa</a><br/>
