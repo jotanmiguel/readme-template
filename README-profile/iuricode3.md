@@ -12,4 +12,4 @@
 
 <hr>
 
-<img id="ling" align="center" style="#ling{display: block; left: 50%; transform: translate(-50%)}" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default">
+<img align="center" style="#ling{display: block; left: 50%; transform: translate(-50%)}" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default">
