@@ -2,8 +2,6 @@
 
 ### Olá, o meu nome é João Oliveira.
 
-<br>
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=jotanmiguel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
@@ -14,4 +12,4 @@
 
 <hr>
 
-<img align="center" style="#ling{display: block; left: 50%; transform: translate(-50%)}" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default">
+<img align="center" style="#ling{display: block; margin: auto;}" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default">
