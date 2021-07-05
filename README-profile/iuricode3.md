@@ -12,4 +12,4 @@
 
 <hr>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotanmiguel&hide=html&layout=compact&theme=default">
